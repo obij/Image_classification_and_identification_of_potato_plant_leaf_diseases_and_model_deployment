@@ -5,7 +5,4 @@ The model was deployed as a web app using streamlit and hosted live on streamlit
 The web app predicts, from images of potato leaves, whether the potato is healthy or suffering from early blight or late blight disease.
 
 The web app was built in Python using the following libraries:
-
-streamlit
-opencv
-numpy
+streamlit, opencv and numpy
